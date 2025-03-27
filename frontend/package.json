@@ -1,8 +1,8 @@
 {
-  "name": "capstone-level-4",
+  "name": "capstonetest-frontend",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://anyoneout.github.io/Capstone-Level-4/",
+  "homepage": "https://anyoneout.github.io/capstonetest/",
   "private": true,
   "author": "",
   "scripts": {
