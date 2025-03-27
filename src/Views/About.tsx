@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import ingredientsVideo from "../frontend/assets/videos/ingredients.mp4";
+import ingredientsVideo from "../../assets/videos/ingredients.mp4";
 
 export function About() {
   const [didMount, setDidMount] = useState<boolean>(false);
